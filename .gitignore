@@ -1,0 +1,4 @@
+./homeworks/homework1/ny_taxi_pstgres_data/
+*.csv
+*.csv.gz
+.ipynb_checkpoints
